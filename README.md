@@ -14,8 +14,10 @@ The primary data source of Data used here is Data sale.csv and this is an open s
 
 ### Tools used
 - Ms Excel for cleaning (Download here)
-    - for data collection
-    - for data
+    - For data collection
+    - For data cleaning
+      1. Data Manipulation
+      2. Data munching
 - SQL Server (for querying and analysis)
 - Power BI (For creating report)
 - Ms Powerpoint (for presentation)

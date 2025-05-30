@@ -13,7 +13,7 @@ This data analysis project aims to generate insight into the salke performance o
 The primary data source of Data used here is Data sale.csv and this is an open source data that can be freely downloaded fro an open source online such as kaggle  or FRED or any other data repository site.
 
 ### Tools used
-- Ms Excel for cleaning (Download here)
+- Ms Excel for cleaning [Download here] (https://www.microsoft.com)
     - For data collection
     - For data cleaning
       1. Data Manipulation

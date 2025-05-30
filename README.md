@@ -19,5 +19,22 @@ The primary data source of Data used here is Data sale.csv and this is an open s
       1. Data Manipulation
       2. Data munching
 - SQL Server (for querying and analysis)
-- Power BI (For creating report)
+- Power BI (For creating report) [Download] (https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Ms Powerpoint (for presentation)
+
+### Data cleaning and preparation
+
+In the initial phase of the Data cleaning and preparations, we perform the following action;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formating
+
+### Exploratory Data analysis
+EDA involved the exploration of the data to answer some questions about the Data such as;
+1. What is the overall sales trend?
+2. Which product are the top seller?
+3. what are the products on peak sales?
+
+### Data analysis
+
+This is where we include some basic lines of code or queries or even some of the DAX expressions during your analysis.
